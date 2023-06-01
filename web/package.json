@@ -2,6 +2,9 @@
    "name": "react-bank",
    "version": "1.0.0",
    "private": false,
+   "publishConfig": {
+      "registry": "https://soleng.jfrog.io/artifactory/api/npm/npm/"
+   },
    "dependencies": {
       "axios": "^0.19.0",
       "bootstrap": "^4.3.1",

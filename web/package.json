@@ -6,7 +6,7 @@
       "registry": "https://soleng.jfrog.io/artifactory/api/npm/npm/"
    },
    "dependencies": {
-      "axios": "^0.19.0",
+      "axios": "0.33.0",
       "bootstrap": "^4.3.1",
       "classnames": "^2.2.6",
       "connected-react-router": "^6.5.2",
@@ -22,13 +22,13 @@
       "react-loading": "^2.0.3",
       "react-redux": "^7.1.3",
       "react-router-dom": "^5.1.2",
-      "react-scripts": "3.2.0",
-      "recharts": "^1.8.5",
+      "react-scripts": "5.0.0-next.47",
+      "recharts": "2.1.3",
       "redux": "^4.0.4",
       "redux-devtools-extension": "^2.13.8",
       "redux-logger": "^3.0.6",
       "redux-thunk": "^2.3.0",
-      "yup": "^0.27.0"
+      "yup": "0.28.2"
    },
    "scripts": {
       "start": "react-scripts start",
@@ -52,6 +52,6 @@
       ]
    },
    "devDependencies": {
-      "node-sass": "^4.13.0"
+      "node-sass": "7.0.2"
    }
 }
